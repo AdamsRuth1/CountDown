@@ -4,7 +4,6 @@ import falzePix from './assets/falze.jpeg'
 import viteLogo from '/vite.svg'
 import { Button, Container, Modal } from 'react-bootstrap';
 import { color, motion, AnimatePresence } from 'framer-motion';
-import { LuCalendarClock } from "react-icons/lu";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./custom.css";
 
